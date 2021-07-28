@@ -10,6 +10,7 @@ namespace ConsoleApp1
             Console.ReadLine();
             int a = 100;
             int z = 50;
+            Console.WriteLine(a + z);
         }
     }
 }
