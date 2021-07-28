@@ -9,7 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
            
             int z = 50;
-            int y = 100;
+            Console.WriteLine(a + z);
         }
     }
 }
